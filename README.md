@@ -37,8 +37,8 @@ There are 6 features for every transaction in sales.json file
 1. Reading file from record.json
 2. Printing List of Products We have in our Inventory (MENU)
 3. Ask customer for how many products he/she wants to purchase (for n no. of items)
-4. Check weather customer entered valid product id or not , if not ask the customer to enter the valid product id
-5. Check weather customer entered quantity in range or not, if not show the quantity available and ask to enter quantity again
+4. Check whether customer entered valid product id or not , if not ask the customer to enter the valid product id
+5. Check whether customer entered quantity in range or not, if not show the quantity available and ask to enter quantity again
 6. Calculate total billing amount and ask the mode of payment
 7. Updating record.json fie
 8. updating sales.json file
